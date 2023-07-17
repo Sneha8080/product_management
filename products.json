@@ -1,0 +1,24 @@
+[
+    {
+      "id": "1",
+      "name": "Product 1",
+      "availability": true,
+      "price": 10.99,
+      "category": "Premium"
+    },
+    {
+      "id": "2",
+      "name": "Product 2",
+      "availability": false,
+      "price": 5.99,
+      "category": "Regular"
+    },
+    {
+      "id": "3",
+      "name": "Product 3",
+      "availability": true,
+      "price": 7.99,
+      "category": "Budget"
+    }
+  ]
+  
